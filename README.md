@@ -1,0 +1,2 @@
+# python_establishment
+総務省の事業所・企業統計調査を使ったPythonプログラム
