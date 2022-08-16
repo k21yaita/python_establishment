@@ -1,0 +1,12 @@
+# coding: utf-8
+
+# フォルダー名
+PATH_RELATIVE_FOLDER_DATA = '../data/'
+
+# データファイル名
+FILENAME_ESTABLISHMENTS = 'file07.csv'
+FILENAME_EMPLOYEES = 'file08.csv'
+
+# データファイル情報
+FILE_ESTABLISHMENTS_HEADER_LINE_NUMBER = 7
+FILE_EMPLOYEES_HEADER_LINE_NUMBER = 7
